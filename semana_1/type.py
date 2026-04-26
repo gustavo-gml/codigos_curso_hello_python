@@ -1,6 +1,6 @@
-nome = "José"
-idade = 19
-troco = 1.50
+nome = "José" #str
+idade = 19 #int
+troco = 1.50 #d
 ativa = True
 
 print(type(nome))
